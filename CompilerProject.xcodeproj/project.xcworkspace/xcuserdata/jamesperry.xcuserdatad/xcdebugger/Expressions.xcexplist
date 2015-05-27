@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "stmt_list():data_parser.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "token">
+            </PersistentString>
+            <PersistentString
+               value = "ttype">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "parse_generate_intermediate_representation:data_parser.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "token">
+            </PersistentString>
+            <PersistentString
+               value = "ttype">
+            </PersistentString>
+            <PersistentString
+               value = "id_listArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "primary(AssignmentStatement*):data_parser.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "token">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "body():data_parser.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "ttype">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "expr(AssignmentStatement*):data_parser.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "token">
+            </PersistentString>
+            <PersistentString
+               value = "id_listArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "stmt_list(StatementNode*):data_parser.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "token">
+            </PersistentString>
+            <PersistentString
+               value = "id_listArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "print_stmt():data_parser.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "ttype">
+            </PersistentString>
+            <PersistentString
+               value = "id_listArray">
+            </PersistentString>
+            <PersistentString
+               value = "RBRAC">
+            </PersistentString>
+            <PersistentString
+               value = "token">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "stmt():data_parser.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "token">
+            </PersistentString>
+            <PersistentString
+               value = "ttype">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "getPointerValue(char*):data_parser.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "ttype">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "id_list():data_parser.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "ttype">
+            </PersistentString>
+            <PersistentString
+               value = "token">
+            </PersistentString>
+            <PersistentString
+               value = "id_listArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "getValue(char*):data_parser.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "id_listArray[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "if_stmt():data_parser.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "token">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "execute_program:compiler.c">
+      </ContextState>
+      <ContextState
+         contextName = "condition(IfStatement*):data_parser.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "token">
+            </PersistentString>
+            <PersistentString
+               value = "id_listArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "safeCopyToken(char*):data_parser.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "main:compiler.c">
+      </ContextState>
+      <ContextState
+         contextName = "putValueInArray(ValueNode*):data_parser.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "assign_stmt():data_parser.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "token">
+            </PersistentString>
+            <PersistentString
+               value = "id_listArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "if_stmt(StatementNode*):data_parser.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "primary():data_parser.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "token">
+            </PersistentString>
+            <PersistentString
+               value = "id_listArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
